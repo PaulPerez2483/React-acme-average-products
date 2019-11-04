@@ -1,0 +1,12 @@
+router - the need for router? 
+    A router is a tool for managing which views are rendered on a website.
+    ReactRouteDOM - is a library for building Routers that automatically switch between different views, depending on the route.
+    each view is defined by the different <Route> components 
+
+    const { 
+    HashRouter,
+    Link, 
+    Router, 
+    Switch, 
+    Redirect } = ReactRouterDOM
+

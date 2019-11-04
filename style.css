@@ -1,0 +1,25 @@
+.Nav {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.Nav > li > a {
+    text-decoration: none;
+    padding: 15px;
+    background-color: dodgerblue;
+    border-radius: 5px;
+    color: white
+}
+
+.selected {
+    background-color: tomato !important;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
